@@ -3,11 +3,11 @@
   <title>doc_books</title>
   
   
-  <link href="https://github.com/itudouMeng/itudouMeng.github.io.git/atom.xml" rel="self"/>
+  <link href="https://itudoumeng.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/itudouMeng/itudouMeng.github.io.git/"/>
+  <link href="https://itudoumeng.github.io/"/>
   <updated>2021-07-26T07:37:54.925Z</updated>
-  <id>https://github.com/itudouMeng/itudouMeng.github.io.git/</id>
+  <id>https://itudoumeng.github.io/</id>
   
   <author>
     <name>Meng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>polar-coordinate</title>
-    <link href="https://github.com/itudouMeng/itudouMeng.github.io.git/2021/07/26/polar-coordinate/"/>
-    <id>https://github.com/itudouMeng/itudouMeng.github.io.git/2021/07/26/polar-coordinate/</id>
+    <link href="https://itudoumeng.github.io/2021/07/26/polar-coordinate/"/>
+    <id>https://itudoumeng.github.io/2021/07/26/polar-coordinate/</id>
     <published>2021-07-26T15:35:51.000Z</published>
     <updated>2021-07-26T07:37:54.925Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/itudouMeng/itudouMeng.github.io.git/2021/07/26/hello-world/"/>
-    <id>https://github.com/itudouMeng/itudouMeng.github.io.git/2021/07/26/hello-world/</id>
+    <link href="https://itudoumeng.github.io/2021/07/26/hello-world/"/>
+    <id>https://itudoumeng.github.io/2021/07/26/hello-world/</id>
     <published>2021-07-26T06:21:27.877Z</published>
     <updated>2021-07-26T06:21:27.877Z</updated>
     

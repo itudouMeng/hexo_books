@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/itudouMeng/itudouMeng.github.io.git/2021/07/26/hello-world/</url>
+    <url>/2021/07/26/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>polar-coordinate</title>
-    <url>/itudouMeng/itudouMeng.github.io.git/2021/07/26/polar-coordinate/</url>
+    <url>/2021/07/26/polar-coordinate/</url>
     <content><![CDATA[<h1 id="科里奥利力"><a href="#科里奥利力" class="headerlink" title="科里奥利力"></a>科里奥利力</h1><h2 id="平面极坐标运动描述"><a href="#平面极坐标运动描述" class="headerlink" title="平面极坐标运动描述"></a>平面极坐标运动描述</h2><p>假设非惯性系$S’$​ 相对于惯性系$S$​以角速度$\omega$​绕$z$​轴旋转,两坐标系原点$O’,O$​重合,轴$z’,z$​重合。取参考系$S$​的平面$Oxy$​和参考系$S’$​的平面$Ox’y’$​​​​，其相对关系如下图所示。两参考系的时间度量相同，即$t=t’$​​​。</p>
 <p><img src="polar-coordinate.assets/polar-coordinate.svg" alt="polar_coordinate"></p>
 <p>平面极坐标系中，观测点位置可以用矢径来表示，即$\vec r=(r;\theta)$。在参考系$S$和参考系$S’$中,分别取观测点矢径$\vec{r},\vec{r’}$和角矢量$\vec{\theta},\vec{\theta’}$对时间$t$​​​取一阶和二阶微商，有关系式：<br>$$<br>\begin{equation}\label{eq1}<br>\begin{aligned}<br>r&amp;=r’ &amp; \theta &amp;= \theta’+\omega \cdot t\<br>\dot r&amp;=\dot{r’} &amp; \dot\theta&amp;=\dot{\theta’}+\omega\<br>\ddot r&amp;=\ddot{r’} &amp; \ddot\theta&amp;=\ddot{\theta’}\<br>\end{aligned}<br>\end{equation}<br>$$<br>可以看出，在参考系$S$和$S’$​​​中，径向和角向单位矢量相同，即：<br>$$<br>\begin{equation} \label{eq2}<br>\begin{aligned}<br>\vec{e_{r}}&amp;=\vec{e_{r}’} &amp; \vec{e_{\theta}}&amp;=\vec{e_{\theta}’}\<br>\end{aligned}<br>\end{equation}<br>$$<br>上面公式$\ref{eq2}$要说明的一点是，在参考系$S$和$S’$中，径向单位矢量和角向单位矢量虽然相同，但是在不同的参考系中却有着不同的数学形式，即无论是在平面极坐标系下还是平面直角坐标系下，数学表达式不同。实际上，参考系$S’$是由参考系$S$旋转得到的，就是说在数学形式上，参考系$S’$中的物理量可以看成是参考系$S$​​​中的量乘以旋转矩阵得到的。</p>
