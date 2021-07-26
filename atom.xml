@@ -3,11 +3,11 @@
   <title>doc_books</title>
   
   
-  <link href="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/atom.xml" rel="self"/>
+  <link href="https://itudoumeng.github.io/hexo_books/atom.xml" rel="self"/>
   
-  <link href="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/"/>
+  <link href="https://itudoumeng.github.io/hexo_books/"/>
   <updated>2021-07-26T13:07:39.156Z</updated>
-  <id>https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/</id>
+  <id>https://itudoumeng.github.io/hexo_books/</id>
   
   <author>
     <name>Meng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>polar-coordinate</title>
-    <link href="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/2021/07/26/polar-coordinate/"/>
-    <id>https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/2021/07/26/polar-coordinate/</id>
+    <link href="https://itudoumeng.github.io/hexo_books/2021/07/26/polar-coordinate/"/>
+    <id>https://itudoumeng.github.io/hexo_books/2021/07/26/polar-coordinate/</id>
     <published>2021-07-26T15:35:51.000Z</published>
     <updated>2021-07-26T13:07:39.156Z</updated>
     
@@ -33,19 +33,19 @@
     
     
     
-    <category term="physics" scheme="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/categories/physics/"/>
+    <category term="physics" scheme="https://itudoumeng.github.io/hexo_books/categories/physics/"/>
     
     
-    <category term="polar-coordiate" scheme="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/tags/polar-coordiate/"/>
+    <category term="polar-coordiate" scheme="https://itudoumeng.github.io/hexo_books/tags/polar-coordiate/"/>
     
-    <category term="force" scheme="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/tags/force/"/>
+    <category term="force" scheme="https://itudoumeng.github.io/hexo_books/tags/force/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/2021/07/26/hello-world/"/>
-    <id>https://github.com/itudouMeng/itudouMeng.github.io/hexo_books/2021/07/26/hello-world/</id>
+    <link href="https://itudoumeng.github.io/hexo_books/2021/07/26/hello-world/"/>
+    <id>https://itudoumeng.github.io/hexo_books/2021/07/26/hello-world/</id>
     <published>2021-07-26T06:21:27.877Z</published>
     <updated>2021-07-26T06:21:27.877Z</updated>
     
